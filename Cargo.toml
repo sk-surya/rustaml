@@ -1,0 +1,10 @@
+[package]
+name = "rustaml"
+version = "0.1.0"
+edition = "2021"
+authors = ["Surya Krishnan <surya.or.dev@gmail.com>"]
+description = "A fast and elegant algebraic modeling library for mathematical optimization"
+license = "MIT"
+repository = "https://github.com/sk-surya/rustaml"
+
+[dependencies]
